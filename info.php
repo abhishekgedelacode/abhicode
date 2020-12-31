@@ -70,15 +70,15 @@
           class="col-md-5 card shadow-lg border-0 p-0 m-2 text-capitalize font-weight-bold text-center"
         >
           <div class="card-header border border-3 border-danger">
-            <h4 class="card-title font-weight-bold">about CodeCode</h4>
+            <h4 class="card-title font-weight-bold">about AbhiCode</h4>
           </div>
           <div class="card-body border border-3 border-danger">
             <p class="card-text text-secondary">
               <strong class="text-dark">AbhiShekGedelaCode</strong> is the
-              creator of <strong class="text-dark">CodeCode</strong>.
+              creator of <strong class="text-dark">AbhiCode</strong>.
             </p>
             <p class="card-text text-secondary">
-              this CodeCode is a
+              this AbhiCode is a
               <strong class="text-dark">peer to peer </strong>
               initiation to develop more interaction between students to improve
               their technical skills.
@@ -102,7 +102,7 @@
               follow us on
             </h4>
           </div>
-          <div class="card-body border border-3 border-success">
+          <div class="card-body border border-3 border-success d-flex justify-content-around">
             <p class="card-text">
               <strong>GitHub : </strong>
               <a
