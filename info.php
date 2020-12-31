@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>CodeCode | peer to peer</title>
+    <title>AbhiCode | peer to peer</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link
@@ -24,7 +24,7 @@
               class="col-4 pt-3 text-warning text-center my-auto font-weight-bold text-capitalize"
             >
               <a
-                href="./index.html"
+                href="./index.php"
                 class="text-warning text-center my-auto font-weight-bold text-capitalize"
                 >home</a
               >
@@ -33,7 +33,7 @@
               class="col-4 pt-3 text-warning text-center my-auto font-weight-bold text-capitalize"
             >
               <a
-                href="./admin.html"
+                href="./admin.php"
                 class="text-warning text-center my-auto font-weight-bold text-capitalize"
                 >admin</a
               >
@@ -42,7 +42,7 @@
               class="col-4 pt-3 text-warning text-center my-auto font-weight-bold text-capitalize"
             >
               <a
-                href="./info.html"
+                href="./info.php"
                 class="text-warning text-center my-auto font-weight-bold text-capitalize"
                 >info</a
               >
@@ -186,9 +186,9 @@
 
     <div class="container-fluid bg-dark font-weight-bold text-center p-1 mt-1">
       <h5 class="text-info text-capitalize p-2">author: AbhiShekGedelaCode</h5>
-      <h5 class="text-warning p-2">
-        gabhishekji143@gmail.com | ABHISHEK GEDELA
-      </h5>
+      <h6 class="text-center text-warning p-2">
+        gabhishekji143@gmail.com <br> ABHISHEK GEDELA
+      </h6>
     </div>
   </body>
 </html>
