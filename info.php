@@ -57,7 +57,7 @@
 
     <div class="container-fluid bg-primary text-white text-center">
       <h1 class="font-weight-bold text-capitalize">
-        information(data) == pow(e,r)
+        information(data) =&gt; pow(e,r)
       </h1>
     </div>
     <!-- end of the caption of the page title  -->
@@ -160,7 +160,7 @@
           </div>
           <div class="card-body border border-3 border-primary">
             <p class="card-text">
-              team CodeCode is providing data mainly through blog posts service.
+              team AbhiCode is providing data mainly through blog posts service.
               main source to share knowledge or ideas is through our posts
               uploaded.
               <br />
