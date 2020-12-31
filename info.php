@@ -102,7 +102,7 @@
               follow us on
             </h4>
           </div>
-          <div class="card-body border border-3 border-success d-flex justify-content-around">
+          <div class="card-body border border-3 border-success d-flex flex-column justify-content-around">
             <p class="card-text">
               <strong>GitHub : </strong>
               <a
