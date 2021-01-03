@@ -84,7 +84,7 @@
           <h6 class="text-info text-center font-weight-bold">
             gabhishekji143@gmail.com
           </h6>
-          <h5 class="text-info text-center font-weight-bold">7660081814</h5>
+          <h5 class="text-info text-center font-weight-bold">xxxxxxxxxx</h5>
         </div>
         <div class="col-md-4 p-3">
           <h6
@@ -150,15 +150,15 @@
           <tbody>
             <tr class="table-success text-secondary font-weight-bold">
               <td class="ps-0 ms-0 text-center" width="50%">date of birth</td>
-              <td>08 apr 2001</td>
+              <td>dd mm yyyy</td>
             </tr>
             <tr class="table-danger text-secondary font-weight-bold">
               <td class="ps-0 ms-0 text-center">father name</td>
-              <td>hema sundara rao</td>
+              <td>sample text </td>
             </tr>
             <tr class="table-info text-secondary font-weight-bold">
               <td class="ps-0 ms-0 text-center">mother name</td>
-              <td>sri devi</td>
+              <td>sample text</td>
             </tr>
             <tr class="table-warning text-secondary font-weight-bold">
               <td class="ps-0 ms-0 text-center">martial status</td>
@@ -175,9 +175,9 @@
             <tr class="table-info text-secondary font-weight-bold">
               <td class="ps-0 ms-0 text-center">address</td>
               <td>
-                no:250, sindili veedhi street, bathupuram village,<br />
-                vajrapukotturu mandal, srikakulam dist.,<br />
-                andhra pradesh , india, pincode: 532219
+                Lorem ipsum dolor sit amet consectetur.,<br />
+                Lorem ipsum dolor sit amet consectetur.,<br />
+                Lorem ipsum dolor sit amet consectetur.
               </td>
             </tr>
           </tbody>
