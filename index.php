@@ -22,7 +22,7 @@
     </style>
   </head>
   <body>
-    <div class="container-fluid">
+    <div id="stick" class="container-fluid">
       <div class="row">
         <div class="col-md-6 container-fluid bg-dark text-white">
           <h1 class="text-center font-weight-bold">AbhiCode</h1>
